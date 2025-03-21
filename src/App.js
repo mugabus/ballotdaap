@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Mugabus<code>src/App.js</code> 
+          Mugabus 
         </p>
         
       </header>
